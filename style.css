@@ -381,3 +381,7 @@ footer button.show{
     color: #fff;
     background: #007bff;
 }
+.align{
+    margin: auto;
+    text-align: center;
+}
