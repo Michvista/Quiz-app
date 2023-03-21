@@ -19,9 +19,9 @@
         <div class="info-list">
             <div class="info">1. You will have only <span>200 seconds which is blah mins</span> per each question.</div>
             <div class="info">2. Once you select your answer, it can't be undone.</div>
-            <div class="info">3. You can't select any option once time goes off.</div>
+            <div class="info">3. You are allowed to take this exam only once</div>
             <div class="info">4. You can't exit from the Exam while you're playing.</div>
-            <div class="info">5. You'll get points on the basis of your correct answers.</div>
+            <div class="info">5. You would be scored over 100 and your GP would be recorded.</div>
         </div>
         <div class="buttons">
             <button class="quit">Exit Exam</button>
@@ -63,15 +63,21 @@
             <i class="fas fa-crown"></i>
         </div>
         <div class="complete_text">You've completed the Exam!</div>
+       <div class="name">
+
+       </div>
         <div class="score_text">
             <!-- Here I've inserted Score Result from JavaScript -->
         </div>
         <div class="buttons">
-            <button class="restart">Replay Exam</button>
             <button class="quit">Quit Exam</button>
         </div>
     </div>
-
+            <script>
+            let ask = prompt('What is your name?')
+            const name = document.querySelector('.name');
+            name.textContent = `Dear ${ask}`
+            </script>
     <!-- Inside this JavaScript file I've inserted Questions and Options only -->
     <script src="js/questions.js"></script>
 
