@@ -220,6 +220,11 @@ section .option_list .option.correct{
     background: #d4edda;
     border: 1px solid #c3e6cb;
 }
+section .option_list .option.ticked{
+    color: #191557;
+    background: #d9d4ed;
+    border: 1px solid #c7c3e6;
+}
 
 section .option_list .option.incorrect{
     color: #721c24;
