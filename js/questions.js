@@ -289,51 +289,7 @@ let questions = [
 
 {
 
-     numb: 16,
-
-     question: "Your Question is Here",
-
-     answer: "Correct answer of the  is here",
-
-     options: [
-
-       "Option 1",
-
-       "option 5",
-
-       "option 3",
-
-       "option 7"
-
-     ]
-
-   },
-
-{
-
      numb: 17,
-
-     question: "Your Question is Here",
-
-     answer: "Correct answer of the  is here",
-
-     options: [
-
-       "Option 1",
-
-       "option 5",
-
-       "option 3",
-
-       "option 7"
-
-     ]
-
-   },
-
-{
-
-     numb: 18,
 
      question: "Your Question is Here",
 
@@ -397,7 +353,27 @@ let questions = [
 
    },
 
+{
 
+     numb: 20,
+
+     question: "Your Question is Here",
+
+     answer: "Correct answer of the  is here",
+
+     options: [
+
+       "Option 1",
+
+       "option 5",
+
+       "option 3",
+
+       "option 7"
+
+     ]
+
+   },
 
 {
 
@@ -420,9 +396,33 @@ let questions = [
      ]
 
    },
+
+
+
 {
 
-     numb: 7,
+     numb: 22,
+
+     question: "Your Question is Here",
+
+     answer: "Correct answer of the  is here",
+
+     options: [
+
+       "Option 1",
+
+       "option 5",
+
+       "option 3",
+
+       "option 7"
+
+     ]
+
+   },
+{
+
+     numb: 22,
 
      question: "Your Question is Here",
 
