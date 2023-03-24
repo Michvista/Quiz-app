@@ -271,7 +271,7 @@ let questions = [
 
      question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
@@ -379,19 +379,19 @@ let questions = [
 
      numb: 21,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -403,19 +403,19 @@ let questions = [
 
      numb: 22,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -424,19 +424,19 @@ let questions = [
 
      numb: 23,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -445,19 +445,19 @@ let questions = [
 
      numb: 24,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -466,19 +466,19 @@ let questions = [
 
      numb: 25,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -487,19 +487,19 @@ let questions = [
 
      numb: 26,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -508,19 +508,19 @@ let questions = [
 
      numb: 27,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -529,19 +529,19 @@ let questions = [
 
      numb: 28,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -550,19 +550,19 @@ let questions = [
 
      numb: 29,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -571,19 +571,19 @@ let questions = [
 
      numb: 30,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -592,19 +592,19 @@ let questions = [
 
      numb: 31,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -613,19 +613,19 @@ let questions = [
 
      numb: 32,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -634,19 +634,19 @@ let questions = [
 
      numb: 33,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -655,19 +655,19 @@ let questions = [
 
      numb: 34,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -676,19 +676,19 @@ let questions = [
 
      numb: 35,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -697,19 +697,19 @@ let questions = [
 
      numb: 36,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -718,19 +718,19 @@ let questions = [
 
      numb: 37,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -739,19 +739,19 @@ let questions = [
 
      numb: 38,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -760,19 +760,19 @@ let questions = [
 
      numb: 39,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -781,19 +781,19 @@ let questions = [
 
      numb: 40,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -802,19 +802,19 @@ let questions = [
 
      numb: 41,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -823,19 +823,19 @@ let questions = [
 
      numb: 42,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -844,19 +844,19 @@ let questions = [
 
      numb: 43,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -865,19 +865,20 @@ let questions = [
 
      numb: 44,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
+      
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -886,19 +887,19 @@ let questions = [
 
      numb: 45,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -907,19 +908,19 @@ let questions = [
 
      numb: 46,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -928,19 +929,19 @@ let questions = [
 
      numb: 47,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -949,19 +950,19 @@ let questions = [
 
      numb: 48,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -970,19 +971,19 @@ let questions = [
 
      numb: 49,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
@@ -991,19 +992,19 @@ let questions = [
 
      numb: 50,
 
-     question: "Your Question is Here",
+     question: "",
 
-     answer: "Correct answer of the  is here",
+     answer: "",
 
      options: [
 
-       "Option 1",
+       "",
 
-       "option 5",
+       "",
 
-       "option 3",
+       "",
 
-       "option 7"
+       ""
 
      ]
 
