@@ -60,13 +60,13 @@ let questions = [
 
      {
      numb: 6,
-     question: "Your Question is Here",
-     answer: "Correct answer of the question is here",
+     question: "A force of 30^-1 is attached to a string of 200N find the pulling force",
+     answer: "30.5",
      options: [
-       "Option 1",
-       "option 2",
-       "option 3",
-       "option 4"
+       "16.25",
+       "30.5",
+       "88.79",
+       "78.33"
      ]
    },
     {
