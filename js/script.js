@@ -62,6 +62,7 @@ next_btn.onclick = ()=>{
         // startTimerLine(widthValue); //calling startTimerLine function
         timeText.textContent = "Time Left"; //change the timeText to Time Left
         next_btn.classList.remove("show"); //hide the next button
+        // if (min)
     }else{
         clearInterval(counter); //clear counter
         clearInterval(counterLine); //clear counterLine
@@ -133,19 +134,30 @@ function showResult(){
     result_box.classList.add("activeResult"); //show result box
     const scoreText = result_box.querySelector(".score_text");
     // console.log(userScore * 2)
+        const dateTime = document.querySelector('.date');
+            const dateHere = new Date();
+            const days = [
+                'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'
+            ]
+            const months = [
+                'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'
+            ]
+            let day = days[dateHere.getDay()];
+            let month = months[dateHere.getMonth()]
+            dateTime.textContent = `${day + ' ' + dateHere.getDate() + ' ' + month + ' ' + dateHere.getFullYear()} at ${dateHere.getHours() + ' : ' + dateHere.getMinutes() + ' : ' + dateHere.getSeconds()}`;
     let newUserScore = (userScore / questions.length ) * 100;
     // console.log(newUserScore)
     if (newUserScore > 70){ // if user scored more than 3  
         //creating a new span tag and passing the user score number and total question number
-        let scoreTag = '<span>and congrats! 🎉, You got <p>'+ newUserScore +'</p> out of <p>'+ 100  +'</p></span> <span class="align">Your GPA is 5.0 </span>';
+        let scoreTag = '<span>You got <p>'+ newUserScore +'</p> out of <p>'+ 100  +'</p></span> <span class="align">Your GPA is 5.0 </span>';
         scoreText.innerHTML = scoreTag;  //adding new span tag inside score_Text
     }   
     else if(newUserScore > 60){ // if user scored more than 1
-        let scoreTag = '<span>and nice 😎, You got <p>'+ newUserScore +'</p> out of <p>'+ 100  +'</p></span> <span class="align">Your GPA is 4.0 </span>';
+        let scoreTag = '<span> You got <p>'+ newUserScore +'</p> out of <p>'+ 100  +'</p></span> <span class="align">Your GPA is 4.0 </span>';
         scoreText.innerHTML = scoreTag;
     }
     else if(newUserScore > 50){ // if user scored more than 1
-        let scoreTag = '<span>and well you tried 😊, You got <p>'+ newUserScore +'</p> out of <p>'+ 100  +'</p></span> <span class="align">Your GPA is 3.0 </span>';
+        let scoreTag = '<span> You got <p>'+ newUserScore +'</p> out of <p>'+ 100  +'</p></span> <span class="align">Your GPA is 3.0 </span>';
         scoreText.innerHTML = scoreTag;
     }
     else if(newUserScore > 39){ // if user scored more than 1
@@ -161,28 +173,43 @@ function showResult(){
 function startTimer(time){
     counter = setInterval(timer, 1000);
     function timer(){
-        timeCount.textContent = time; //changing the value of timeCount with time value
-        time--; //decrement the time value
-        if(time < 9){ //if timer is less than 9
-            let addZero = timeCount.textContent; 
-            timeCount.textContent = "0" + addZero; //add a 0 before time value
+        // timeCount.textContent = time; //changing the value of timeCount with time value
+        // time--; //decrement the time value
+        // if(time < 9){ //if timer is less than 9
+        //     let addZero = timeCount.textContent; 
+        //     timeCount.textContent = "0" + addZero; //add a 0 before time value
+        // }
+        var timer = document.querySelector('.timer_sec').textContent;
+        timer = timer.split(':')
+        var minutes = timer[0];
+        var seconds = timer[1];
+        seconds -= 1;
+        if(minutes < 0) return;
+        else if (seconds < 0 && minutes != 0) {
+            minutes -= 1;
+            seconds = 59;
         }
-        if(time < 0){ //if timer is less than 0
+        else if(seconds < 10 && length.seconds != 2) seconds = '0' + seconds;
+        document.querySelector('.timer_sec').textContent = minutes + ':' + seconds;
+        if(minutes == 0 && seconds == 0){ //if timer is less than 0
             clearInterval(counter); //clear counter
             timeText.textContent = "Time Off"; //change the time text to time off
             const allOptions = option_list.children.length; //getting all option items
             let correcAns = questions[que_count].answer; //getting correct answer from array
-            for(i=0; i < allOptions; i++){
-                if(option_list.children[i].textContent == correcAns){ //if there is an option which is matched to an array answer
-                    option_list.children[i].setAttribute("class", "option correct"); //adding green color to matched option
-                    option_list.children[i].insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to matched option
-                    console.log("Time Off: Auto selected correct answer.");
-                }
-            }
+            // for(i=0; i < allOptions; i++){
+
+            // }
+            //     if(option_list.children[i].textContent == correcAns){ //if there is an option which is matched to an array answer
+            //         option_list.children[i].setAttribute("class", "option correct"); //adding green color to matched option
+            //         option_list.children[i].insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to matched option
+            //         console.log("Time Off: Auto selected correct answer.");
+            //     }
+            // }
             for(i=0; i < allOptions; i++){
                 option_list.children[i].classList.add("disabled"); //once user select an option then disabled all options
             }
             next_btn.classList.add("show"); //show the next button if user selected any option
+            showResult()
         }
     }
 }
