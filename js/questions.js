@@ -466,7 +466,7 @@ let questions = [
 
      numb: 25,
 
-     question: "The reaction a body is always (   ) to the plane",
+     question: "The reaction a body is always ? to the plane",
 
      answer: "Perpendicular",
 
