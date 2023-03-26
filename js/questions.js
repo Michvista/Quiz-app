@@ -2,57 +2,57 @@
 let questions = [
     {
     numb: 1,
-    question: "",
-    answer: "",
+    question: "A force which Balance out the sum of other forces is ?",
+    answer: "Equilibrant",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Resultant",
+      "Parallel force",
+      "Equilibrant",
+      "Component force"
     ]
   },
     {
     numb: 2,
-    question: "",
-    answer: "",
+    question: "What displacement must be adde to a 50cm displacement in the +x direction to give a resultant displacement of 85cm at 25degree",
+    answer: "45cm",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "12cm",
+      "18.8cm",
+      "138.8cm",
+      "45cm"
     ]
   },
     {
     numb: 3,
-    question: "",
-    answer: "",
+    question: "With an Airspeed of 100km/hr a pilot Flies a course bearing of 120degree if a steady wind of 50km/hr is blowing from a bearing of 080degree Determine the ground speed",
+    answer: "69.6km/hr",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "69.6km/hr",
+      "32.0km/hr",
+      "19.0km/hr",
+      "120.78km/hr"
     ]
   },
     {
     numb: 4,
-    question: "",
-    answer: "",
+    question: "which of the following type of motion is produced by a couple",
+    answer: "Rotational",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Oscillatory",
+      "Rotational",
+      "Random",
+      "Translational"
     ]
   },
     {
     numb: 5,
-    question: "",
-    answer: "",
+    question: "A force 10N and 50N act at an angle 60degree to each other. Find the magnitude of the Equilibrant",
+    answer: "13.2",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "10.0",
+      "26.4",
+      "15.0",
+      "13.2"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
@@ -60,32 +60,32 @@ let questions = [
 
      {
      numb: 6,
-     question: "",
-     answer: "",
+     question: "The point in which the whole weight of a body concentrate is known as?",
+     answer: "Center of gravity",
      options: [
-       "",
-       "",
-       "",
-       ""
+       "middle point",
+       "Maximum point",
+       "Centre of gravity",
+       "Maximum point"
      ]
    },
     {
 
      numb: 7,
 
-     question: "",
+     question: "A body moving on a smooth inclined plane will experience?",
 
-     answer: "",
+     answer: "Zero Friction",
 
      options: [
 
-       "",
+       "Maximum friction",
 
-       "",
+       "Retardation",
 
-       "",
+       "Zero Friction",
 
-       ""
+       "minimum acceleration"
 
      ]
 
@@ -95,19 +95,19 @@ let questions = [
 
      numb: 8,
 
-     question: "",
+     question: "A 5.0 long uniform plank is supported at the centre of gravity . A 3.0kg boy sits at one end of the plank. A second boy sit 0.3m from the other end calculate the boy weight if the plank is in equilibrium horizontally",
 
-     answer: "",
+     answer: "340.9N",
 
      options: [
 
-       "",
+       "6932N",
 
-       "",
+       "340.9N",
 
-       "",
+       "25.17N",
 
-       ""
+       "39.16N"
 
      ]
 
@@ -117,19 +117,19 @@ let questions = [
 
      numb: 9,
 
-     question: "",
+     question: "The sum of all forces under Equilibrium is?",
 
-     answer: "",
+     answer: "0",
 
      options: [
 
-       "",
+       "Equal",
 
-       "",
+       "Maximum",
 
-       "",
+       "0",
 
-       ""
+       "Minimum"
 
      ]
 
@@ -139,19 +139,19 @@ let questions = [
 
      numb: 10,
 
-     question: "",
+     question: "A boat heads 20degree west of North across a canal at a speed of 12m/s what is the resultsnt velocity of the boat if water in the cannal flow due east 12m/s",
 
-     answer: "",
+     answer: "13.76m/s",
 
      options: [
 
-       "",
+       "6.66m/s",
 
-       "",
+       "27.7m/s",
 
-       "",
+       "13.76m/s",
 
-       ""
+       "34.4m/s"
 
      ]
 
