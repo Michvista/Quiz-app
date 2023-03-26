@@ -445,7 +445,7 @@ let questions = [
 
      numb: 24,
 
-     question: "According to law of Conservation of Energy",
+     question: " Law of conservation of enrgy implies ",
 
      answer: "1/2mv² equals to mgh",
 
