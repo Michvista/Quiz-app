@@ -396,9 +396,6 @@ let questions = [
      ]
 
    },
-
-
-
 {
 
      numb: 22,
