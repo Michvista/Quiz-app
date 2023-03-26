@@ -445,19 +445,19 @@ let questions = [
 
      numb: 24,
 
-     question: "conservation of enrgy implies",
+     question: "what course is this",
 
-     answer: "1/2mv² equals to mgh",
+     answer: "Physics",
 
      options: [
 
-       "2times 1/2mv² equals to mgh",
+       "chemistry",
 
-       "1/2mv² equals to mgh",
+       "Physics",
 
-       "2times 1/2mv² equals to 3 times mgh",
+       "Botany",
 
-       "1/2mv² plus mgh equals to Zero"
+       "Zoology"
 
      ]
 
