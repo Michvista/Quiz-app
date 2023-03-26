@@ -445,7 +445,7 @@ let questions = [
 
      numb: 24,
 
-     question: "what course is this",
+     question: "what course is",
 
      answer: "Physics",
 
