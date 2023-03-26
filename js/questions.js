@@ -13,7 +13,7 @@ let questions = [
   },
     {
     numb: 2,
-    question: "What displacement must be adde to a 50cm displacement in the +x direction to give a resultant displacement of 85cm at 25degree",
+    question: "What displacement must be added to a 50cm displacement in the +x direction to give a resultant displacement of 85cm at 25degree",
     answer: "45cm",
     options: [
       "12cm",
@@ -66,7 +66,7 @@ let questions = [
        "middle point",
        "Maximum point",
        "Centre of gravity",
-       "Maximum point"
+       "Equilibrium point"
      ]
    },
     {
@@ -161,19 +161,19 @@ let questions = [
 
      numb: 11,
 
-     question: "",
+     question: "A long jumper had take off velocity of 9.5m/s What is the maximum horizontal distance?",
 
-     answer: "",
+     answer: "9.21m",
 
      options: [
 
-       "",
+       "19.45m",
 
-       "",
+       "12.66m",
 
-       "",
+       "9.21m,
 
-       ""
+       "19.45m"
 
      ]
 
@@ -183,19 +183,19 @@ let questions = [
 
      numb: 12,
 
-     question: "",
+     question: "A body thrown with v=5i+8j in m/s find the time taken to reach maximum height",
 
-     answer: "",
+     answer: "0.825",
 
      options: [
 
-       "",
+       "0.825s",
 
-       "",
+       "44.5s,
 
-       "",
+       "0.34s",
 
-       ""
+       "23.3s"
 
      ]
 
@@ -204,19 +204,19 @@ let questions = [
 
      numb: 13,
 
-     question: "",
+     question: "Express the speed of a car travelling at 80km/hr in mm/s",
 
-     answer: "",
+     answer: "2.22×10^4mm/s",
 
      options: [
 
-       "",
+       "2.22x10^3mm/s",
 
-       "",
+       "22.2×10^5mm/s",
 
-       "",
+       "2.22×10^-3mm/s",
 
-       ""
+       "2.22×10^4mm/s"
 
      ]
 
