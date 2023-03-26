@@ -379,19 +379,19 @@ let questions = [
 
      numb: 21,
 
-     question: "",
+     question: "During inelastic collision",
 
-     answer: "",
+     answer: "Only momentum is conserved ",
 
      options: [
 
-       "",
+       "momentum and energy conserved",
 
-       "",
+       "Only momentum is conserved",
 
-       "",
+       "Momentum and energy not conserved",
 
-       ""
+       "Momentum and energy increases"
 
      ]
 
@@ -403,19 +403,19 @@ let questions = [
 
      numb: 22,
 
-     question: "",
+     question: "A 65kg sprinter completes a 100m race in 9.83s calculate the average kinetic energy of the sprinter",
 
-     answer: "",
+     answer: "3.36kJ",
 
      options: [
 
-       "",
+       "26.3kJ",
 
-       "",
+       "45.2kJ",
 
-       "",
+       "3.36kJ",
 
-       ""
+       "20.0kJ"
 
      ]
 
@@ -424,19 +424,19 @@ let questions = [
 
      numb: 23,
 
-     question: "",
+     question: "If a plane is beign Rotated through an angle of 30° above the Horizontal the Reaction will rotate through?",
 
-     answer: "",
+     answer: "30°",
 
      options: [
 
-       "",
+       "150°",
 
-       "",
+       "30°",
 
-       "",
+       "60°",
 
-       ""
+       "120°
 
      ]
 
@@ -445,19 +445,19 @@ let questions = [
 
      numb: 24,
 
-     question: "",
+     question: "According to law of Conservation of Energy",
 
-     answer: "",
+     answer: "K.E=P.E",
 
      options: [
 
-       "",
+       "2K.E=P.E",
 
-       "",
+       "k.E=P.E",
 
-       "",
+       "2K.E=3P.E",
 
-       ""
+       "K.E+P.E=0"
 
      ]
 
@@ -466,19 +466,19 @@ let questions = [
 
      numb: 25,
 
-     question: "",
+     question: "The reaction a body is always (   ) to the plane",
 
-     answer: "",
+     answer: "Perpendicular",
 
      options: [
 
-       "",
+       "Perpendicular",
 
-       "",
+       "Linear",
 
-       "",
+       "Co-linear",
 
-       ""
+       "Parallel"
 
      ]
 
