@@ -447,17 +447,17 @@ let questions = [
 
      question: "According to law of Conservation of Energy",
 
-     answer: "K.E=P.E",
+     answer: "kinetic Energy = Potential Energy",
 
      options: [
 
-       "2K.E=P.E",
+       "2Kinetic Energy=Potential Energy",
 
-       "k.E=P.E",
+       "kinetic energy = Potential Energy",
 
-       "2K.E=3P.E",
+       "2Kinetic energy=3Potential Energy",
 
-       "K.E+P.E=0"
+       "Kinetic energy + potential Energy=0"
 
      ]
 
