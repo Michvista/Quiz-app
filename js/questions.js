@@ -447,17 +447,17 @@ let questions = [
 
      question: "According to law of Conservation of Energy",
 
-     answer: "kinetic Energy = Potential Energy",
+     answer: "1/2mv² equals to mgh",
 
      options: [
 
-       "2Kinetic Energy=Potential Energy",
+       "2times 1/2mv² equals to mgh,
 
-       "kinetic energy = Potential Energy",
+       "1/2mv² equals to mgh",
 
-       "2Kinetic energy=3Potential Energy",
+       "2times 1/2mv² equals to 3 times mgh",
 
-       "Kinetic energy + potential Energy=0"
+       "1/2mv² plus mgh equals to Zero"
 
      ]
 
