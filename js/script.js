@@ -153,19 +153,19 @@ function showResult(){
         scoreText.innerHTML = scoreTag;  //adding new span tag inside score_Text
     }   
     else if(newUserScore > 60){ // if user scored more than 1
-        let scoreTag = '<span> You got <p>'+ newUserScore +'</p> out of <p>'+ 100  +'</p></span> <span class="align">Your GPA is 4.0 </span>';
+        let scoreTag = '<span> You got <p>'+ newUserScore +'</p> out of <p>'+ 100  +'</p></span> <span class="align"><p>Your GPA is 4.0 </p></span>';
         scoreText.innerHTML = scoreTag;
     }
     else if(newUserScore > 50){ // if user scored more than 1
-        let scoreTag = '<span> You got <p>'+ newUserScore +'</p> out of <p>'+ 100  +'</p></span> <span class="align">Your GPA is 3.0 </span>';
+        let scoreTag = '<span> You got <p>'+ newUserScore +'</p> out of <p>'+ 100  +'</p></span> <span class="align"><p>Your GPA is 3.0</p> </span>';
         scoreText.innerHTML = scoreTag;
     }
     else if(newUserScore > 39){ // if user scored more than 1
-        let scoreTag = '<span class="fuck">and well you can improve 😐, You got '+ newUserScore + ' out of '+ 100  +'</span> <span class="align">Your GPA is 2.0 </span>';
+        let scoreTag = '<span class="fuck"> You got '+ newUserScore + ' out of '+ 100  +'</span> <span class="align"><p>Your GPA is 2.0 </p></span>';
         scoreText.innerHTML = scoreTag;
     }
     else{ // if user scored less than 1
-        let scoreTag = '<span>and sorry 😢, You got only <p>'+ newUserScore +'</p> out of <p>'+ 100  + '</p>   </span> <span class="align">Your GPA is 0.0 </span>';
+        let scoreTag = '<span>You got only <p>'+ newUserScore +'</p> out of <p>'+ 100  + '</p>   </span> <span class="align"><p>Your GPA is 0.0</p> </span>';
         scoreText.innerHTML = scoreTag;
     }
 }
