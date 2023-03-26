@@ -445,13 +445,13 @@ let questions = [
 
      numb: 24,
 
-     question: " The law conservation of enrgy implies ",
+     question: "conservation of enrgy implies",
 
      answer: "1/2mv² equals to mgh",
 
      options: [
 
-       "2times 1/2mv² equals to mgh,
+       "2times 1/2mv² equals to mgh",
 
        "1/2mv² equals to mgh",
 
