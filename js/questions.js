@@ -47,12 +47,12 @@ let questions = [
     {
     numb: 5,
     question: "A force 10N and 50N act at an angle 60degree to each other. Find the magnitude of the Equilibrant",
-    answer: "13.2",
+    answer: "13.2units",
     options: [
-      "10.0",
-      "26.4",
-      "15.0",
-      "13.2"
+      "10.0units",
+      "26.4units",
+      "15.0units",
+      "13.2units"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
@@ -171,7 +171,7 @@ let questions = [
 
        "12.66m",
 
-       "9.21m,
+       "9.21m",
 
        "19.45m"
 
@@ -191,7 +191,7 @@ let questions = [
 
        "0.825s",
 
-       "44.5s,
+       "44.5s",
 
        "0.34s",
 
@@ -225,19 +225,19 @@ let questions = [
 
      numb: 14,
 
-     question: "",
+     question: "vector a=-i-4j+2k b=3i+2j-2k c=2i-3j+k calculate a.(b×c)",
 
-     answer: "",
+     answer: "6",
 
      options: [
 
-       "",
+       "-6",
 
-       "",
+       "3",
 
-       "",
+       "6",
 
-       ""
+       "12"
 
      ]
 
@@ -247,19 +247,19 @@ let questions = [
 
      numb: 15,
 
-     question: "",
+     question: "Two students carry a 260N suitcase by two straps which make angle 22deegree and 30degree respectively with the vertical calculate the force applied by each student to keep the suitcase in equilibrium",
 
-     answer: "",
+     answer: "123.6,165.0",
 
      options: [
 
-       "",
+       "1.72,39.9",
 
-       "",
+       "123.6,165.0",
 
-       "",
+       "26.6,57.2",
 
-       ""
+       "123.6,1.72"
 
      ]
 
@@ -269,19 +269,19 @@ let questions = [
 
      numb: 16,
 
-     question: "",
+     question: "vector A,B,C has an equilibrant of of?",
 
-     answer: "",
+     answer: "A+B+C",
 
      options: [
 
-       "",
+       "-(A+B+C)",
 
-       "",
+       "A+B+C",
 
-       "",
+       "A-B-C",
 
-       ""
+       "-(B-C)+B"
 
      ]
 
@@ -291,19 +291,19 @@ let questions = [
 
      numb: 17,
 
-     question: "",
+     question: "A particle projected with a velocity of 40m/s at an elevation of 60° calculate the Vertical Component of velocity at height of 50m",
 
-     answer: "",
+     answer: "2√25m/s",
 
      options: [
 
-       "",
+       "4√115m/s",
 
-       "",
+       "25√3m/s",
 
-       "",
+       "2√545m/s",
 
-       ""
+       "2√25m/s"
 
      ]
 
@@ -313,19 +313,19 @@ let questions = [
 
      numb: 18,
 
-     question: "",
+     question: "A single force which produce the same effect as a set of forces acting together at a point is known as the ?",
 
-     answer: "",
+     answer: "Resultant",
 
      options: [
 
-       "",
+       "component",
 
-       "",
+       "Equilibrant",
 
-       "",
+       "Resistant",
 
-       ""
+       "Resultant"
 
      ]
 
@@ -335,19 +335,19 @@ let questions = [
 
      numb: 19,
 
-     question: "",
+     question: "An example of scalar quantity",
 
-     answer: "",
+     answer: "Electric charge",
 
      options: [
 
-       "",
+       "velocity",
 
-       "",
+       "Electric charge",
 
-       "",
+       "Momentum",
 
-       ""
+       "Weight"
 
      ]
 
@@ -357,19 +357,19 @@ let questions = [
 
      numb: 20,
 
-     question: "",
+     question: "The resultant of two Forces acting on an object is Maximum when the angle between them is ?",
 
-     answer: "",
+     answer: "0°",
 
      options: [
 
-       "",
+       "180°",
 
-       "",
+       "90°",
 
-       "",
+       "45°",
 
-       ""
+       "0°"
 
      ]
 
