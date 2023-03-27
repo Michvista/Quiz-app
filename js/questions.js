@@ -485,7 +485,7 @@ let questions = [
 		options: [
 			"kgm-³s–²",
 			"Kgm-¹s²",
-			"kgm-²s-²,
+			"kgm-²s-²",
 			"kgm³s-²"
 		]
 	},
