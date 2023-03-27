@@ -528,7 +528,7 @@ let questions = [
 		answer: "minimum acceleration",
 		options: [
 			"maximum acceleration",
-			"maximum retardation"",
+			"maximum retardation",
 			"minimum acceleration",
 			"minimum retardation"
 		]
