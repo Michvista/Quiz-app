@@ -381,7 +381,7 @@ let questions = [
 
      question: "During inelastic collision",
 
-     answer: "Only momentum is conserved ",
+     answer: "Only momentum is conserved",
 
      options: [
 
@@ -442,19 +442,19 @@ let questions = [
 
      numb: 24,
 
-     question: "what course is",
+     question: "",
 
-     answer: "Physics",
+     answer: "",
 
      options: [
 
-       "chemistry",
+       "",
 
-       "Physics",
+       "",
 
-       "Botany",
+       "",
 
-       "Zoology"
+       ""
 
      ]
 
@@ -463,19 +463,20 @@ let questions = [
 
      numb: 25,
 
-     question: "The reaction a body is always ? to the plane",
+     question: "",
+    
 
-     answer: "Perpendicular",
+     answer: "",
 
      options: [
 
-       "Perpendicular",
+       "",
 
-       "Linear",
+       "",
 
-       "Co-linear",
+       "",
 
-       "Parallel"
+       ""
 
      ]
 
