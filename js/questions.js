@@ -260,7 +260,7 @@ let questions = [
 		question: "The Reaction of a body is always ______ to the plane",
 		answer: "Perpendicular",
 		options: [
-			"parallel,
+			"parallel",
 			"Linear",
 			"Perpendicular",
 			"Co-linear"
@@ -272,9 +272,9 @@ let questions = [
 
 		answer: "K.E=P.E",
 		options: [
-			"K.E=P.E,
-			"2K.E=3P.E,
-			"K.E+P.E=0,
+			"K.E=P.E",
+			"2K.E=3P.E",
+			"K.E+P.E=0",
 			"2K.E=P.E"
 		]
 	},
