@@ -316,7 +316,7 @@ let questions = [
 		question: "The two forces 4N and 6N act on an object at an angle Of 60° to each other if the object at an angle of 60° to each other if the Object is moved through a distance of 5m in the direction of force. calculate workdone on the body",
 		answer: "43.59J",
 		options: [
-			"36.6J,
+			"36.6J",
 			"43.59J",
 			"26.8J",
 			"13.66J"
