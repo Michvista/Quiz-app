@@ -336,112 +336,112 @@ let questions = [
 	},
 	{
 		numb: 31,
-		question: "",
-		answer: "",
+		question: "Which course is this?",
+		answer: "physics",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"chemistry",
+			"Botany",
+			"physics",
+			"CSC"
 		]
 	},
 	{
 		numb: 32,
-		question: "",
-		answer: "",
+		question: "The angle between parallel vectors",
+		answer: "0°",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"0°",
+			"180°",
+			"90°",
+			"45°"
 		]
 	},
 	{
 		numb: 33,
-		question: "",
-		answer: "",
+		question: "A car moved 30km in the NE direction then moved 40km due north calculate the total displacement",
+		answer: "64.78km",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"70.2km",
+			"34.4km",
+			"29.2km",
+			"64.78km"
 		]
 	},
 	{
 		numb: 34,
-		question: "",
-		answer: "",
+		question: "Express the speed of light in millimeter per microseconds",
+		answer: "3.0×10^5mm/microseconds",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"3.0x10^6mm/microseconds",
+			"7.0×10^3mm/microseconds",
+			"3.0×10^5mm/microseconds",
+			"7.0×10^-6mm/microseconds"
 		]
 	},
 	{
 		numb: 35,
-		question: "",
-		answer: "",
+		question: "Determine the sum of two vectors each magnitude 10units at an angle of 30°",
+		answer: "19.3units",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"44.4units",
+			"24.2units",
+			"19.3units",
+			"35units"
 		]
 	},
 	{
 		numb: 36,
-		question: "",
-		answer: "",
+		question: "The magnitude of force required to just move 20kg Object along a horizontal surface of coefficient of friction 0.2 is?",
+		answer: "40",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"400",
+			"40",
+			"4.0",
+			"0.4"
 		]
 	},
 	{
 		numb: 37,
-		question: "",
-		answer: "",
+		question: "Vector A of magnitude 10units B of magnitude 30 units and other the rangle between them is 45° Find the magnitude of their resultant",
+		answer: "37.7units",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"45.3units",
+			"32.2units",
+			"43.3units",
+			"37.7units"
 		]
 	},
 	{
 		numb: 38,
-		question: "",
-		answer: "",
+		question: "A boy pushes a book against the vertical wall with a force of 25N Determine the minimum coefficient of static friction between the book and the wall",
+		answer: "0.588",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"0.23",
+			"0.588",
+			"1.98",
+			"2.77"
 		]
 	},
 	{
 		numb: 39,
-		question: "",
-		answer: "",
+		question: "A 475kg load is ejected from a height at a high altitude after the parachute attached to the load opens the load decends with an acceleration of 0.2m/s² calculate the upward the upward thrust on the parachute",
+		answer: "4560N",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"2670N",
+			"4560N",
+			"3750N",
+			"92.55N"
 		]
 	},
 	{
 		numb: 40,
-		question: "",
-		answer: "",
+		question: "The rate of energy transfer between the circulating charge and the circuit is ?",
+		answer: "Workdone",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"Current density",
+			"Workdone",
+			"Power",
+			"intensity"
 		]
 	},
 	{
