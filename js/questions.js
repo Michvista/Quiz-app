@@ -446,113 +446,113 @@ let questions = [
 	},
 	{
 		numb: 41,
-		question: "",
-		answer: "",
+		question: "A lob of weight 0.1N Hangs om massless string of length 50cm.A variable horizontal force which increases from Zero is applied to pull the bob until the string makes an angle of 60° with the vertical. The work done is?",
+		answer: "0.025J",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"0.005J",
+			"0.03J",
+			"045J",
+			"0.025J"
 		]
 	},
 	{
 		numb: 42,
-		question: "",
-		answer: "",
+		question: "The unit of couple is measured in ?",
+		answer: "Nm",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"Nm",
+			"Nm-²",
+			"Nm-¹",
+			"Nm²"
 		]
 	},
 	{
 		numb: 43,
-		question: "",
-		answer: "",
+		question: "Starting from rest a car of mass 1000kg Accelerates steadily to 20m/s in 10s The average power developed in the time period is?",
+		answer: "20kw",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"40kw",
+			"30kw",
+			"15kw",
+			"20kw"
 		]
 	},
 	{
 		numb: 44,
-		question: "",
-		answer: "",
+		question: "energy desity is ?",
+		answer: "Kgm-²s-²",
 
 		options: [
-			"",
-			"",
-			"",
-			""
+			"kgm-³s–²",
+			"Kgm-¹s²",
+			"kgm-²s-²,
+			"kgm³s-²"
 		]
 	},
 	{
 		numb: 45,
-		question: "",
-		answer: "",
+		question: "An engine pumps water from river 10m below it own level and discharge it through a nozzle of diameter 10cm with a speed of 50m/s. Find the power Assuming no losses ",
+		answer: "529.9kw",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"529.9kw",
+			"144.4kw",
+			"336.672kw",
+			"1.340kw"
 		]
 	},
 	{
 		numb: 46,
-		question: "",
-		answer: "",
+		question: "A physical Quantity that has the same dimension as impulse is ?",
+		answer: "momentum",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"pressure",
+			"momentum",
+			"surface tension",
+			"energy"
 		]
 	},
 	{
 		numb: 47,
-		question: "",
-		answer: "",
+		question: "In an experiment the force F is proportional to the desity d velocity v and area a which is F=kd^xv^2yA^z where x,y,z are integer k is a dimensionless constant. find x,y,z ",
+		answer: "1,1,1",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"1,1,1",
+			"1,-1,2",
+			"½,½,½",
+			"1,0,1"
 		]
 	},
 	{
 		numb: 48,
-		question: "",
-		answer: "",
+		question: "A body moving with uniform velocity",
+		answer: "minimum acceleration",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"maximum acceleration",
+			"maximum retardation"",
+			"minimum acceleration",
+			"minimum retardation"
 		]
 	},
 	{
 		numb: 49,
-		question: "",
-		answer: "",
+		question: "A physical quantity with both magnitude and direction is ?",
+		answer: "vector quantity",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"scalar quantity",
+			"vector quantity",
+			"linear quantity",
+			"nuetral quantity"
 		]
 	},
 	{
 		numb: 50,
-		question: "",
-		answer: "",
+		question: "A stone and a feather are dropped from the same hight above the earth surface ignoring air resistance. which is correct?",
+		answer: "The feather and stone will drop the same time",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"The feather and stone will drop the same time",
+			"The stone will reach the ground first",
+			"The feather will blow away",
+			"Non of the Above"
 		]
 	},
 ];
