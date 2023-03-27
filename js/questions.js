@@ -257,80 +257,81 @@ let questions = [
 	},
 	{
 		numb: 24,
-		question: "",
-		answer: "",
+		question: "The Reaction of a body is always ______ to the plane",
+		answer: "Perpendicular",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"parallel,
+			"Linear",
+			"Perpendicular",
+			"Co-linear"
 		]
 	},
 	{
 		numb: 25,
-		question: "",
+		question: "According to conservation of energy",
 
-		answer: "",
+		answer: "K.E=P.E",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"K.E=P.E,
+			"2K.E=3P.E,
+			"K.E+P.E=0,
+			"2K.E=P.E"
 		]
 	},
 	{
 		numb: 26,
-		question: "",
-		answer: "",
+		question: "A body which moves from rest with a uniform acceleration travels 18m during the third second what will be its Velocity at yhe end of eight second",
+		answer: "57.6m/s",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"905m/s",
+			"57.6m/s",
+			"125m/s",
+			"39.5m/s"
 		]
 	},
 	{
 		numb: 27,
-		question: "",
-		answer: "",
+		question: "The Equation connecting the Reaction of a body on a horizontal and inclined plane is?",
+		answer: "R=mgcosØ=mg",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"Rcosø=mg",
+			"R=mgsinø=mgcosø",
+			"R=mgtanø=mg",
+			"R=mgcosø==mg"
 		]
 	},
 	{
 		numb: 28,
-		question: "",
-		answer: "",
+		question: "The equilibrium position of objects in any feild correspond to situations of?",
+		answer: "Minimum Potential Energy",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"Minimum Potential Energy",
+			"Maximum Potential Energy",
+			"Equipotential Energy",
+			"Maximum kinetic energy"
 		]
 	},
 	{
 		numb: 29,
-		question: "",
-		answer: "",
+		question: "The two forces 4N and 6N act on an object at an angle Of 60° to each other if the object at an angle of 60° to each other if the Object is moved through a distance of 5m in the direction of force. calculate workdone on the body",
+		answer: "43.59J",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"36.6J,
+			"43.59J",
+			"26.8J",
+			"13.66J"
 		]
 	},
 	{
 		numb: 30,
-		question: "",
-		answer: "",
+		question: "The force that attract a body a body undergoing circular motion to the center is ?",
+		answer: "Centripenal force",
 		options: [
-			"",
-			"",
-			"",
-			""
+			"Frictional force",
+			"Centripetal force",
+			
+			"Centrifugal force",
+			"Gravitational force"
 		]
 	},
 	{
