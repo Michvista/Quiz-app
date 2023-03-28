@@ -551,7 +551,7 @@ let questions = [
 		options: [
 			"The feather and stone will drop the same time",
 			"The stone will reach the ground first",
-			"The feather will blow away",
+			"The feather will blow away"",
 			"Non of the Above"
 		]
 	},
